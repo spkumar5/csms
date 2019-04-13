@@ -22,7 +22,7 @@
 		<io.springfox.version>2.9.2</io.springfox.version>
 		<bootstrap.version>4.3.1</bootstrap.version>
 
-		<oauth2.version>2.2.1.RELEASE</oauth2.version>
+		<oauth2.version>2.3.5.RELEASE</oauth2.version>
 	</properties>
 
 	<dependencies>
